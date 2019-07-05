@@ -86,7 +86,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="Controllers\FileUploadController.cs" />
     <Compile Include="Models\CloudFile.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
